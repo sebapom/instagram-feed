@@ -1,0 +1,87 @@
+.post{
+    height: 600px;
+    width: 400px;
+    background: white;
+    margin: 4% auto;
+}
+body{
+    background: silver;
+}
+.body img{
+    margin-left: 20%;
+    width: 60%;
+    height: 20%;
+}
+.titulo{
+    margin-top: 10%;
+    font-size: 150%;
+    
+}
+
+.barra{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: 300%;
+    margin: 0%;
+}
+.head{
+    margin: 0;
+    height: 13%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.head .title{
+    width: 50%;
+    height: 100%;
+    
+    display: flex;
+
+}
+.head .title .logo{
+    padding: 15px;
+    width: 20%;
+}
+.head .title .logo i{
+    width: 100px;
+    
+}
+.head .title .titulo{
+    width: 80%;
+
+}
+.head .title .titulo h1{
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    
+}
+.head .title .titulo h2{
+    font-size: 1rem;
+    margin-top: 0;
+    
+}
+.head .option{
+    padding: 15px;
+}
+.post .footer{
+   
+    width: 100%;
+    height: 5%;
+}
+.footer-options{
+    
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+i{
+    padding: 3px;
+}
+.marcador{
+    margin-left: 60%;
+}
+.footer-text{
+    padding: 0 10px;
+}
